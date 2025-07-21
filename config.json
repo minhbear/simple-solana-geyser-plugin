@@ -1,0 +1,9 @@
+{
+  "libpath": "/Users/minhbear/Documents/learning/blockchain/SVM/geyser-plugin-workshop/simple-solana-geyser-plugin/target/release/libsimple_solana_geyser_plugin.dylib",
+  "redis": {
+    "url": "redis://127.0.0.1:6379",
+    "max_connections": 10,
+    "connection_timeout_ms": 1000,
+    "database": 0
+  }
+}
